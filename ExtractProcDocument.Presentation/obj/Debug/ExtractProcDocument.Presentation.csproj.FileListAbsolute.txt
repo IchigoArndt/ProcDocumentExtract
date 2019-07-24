@@ -1,0 +1,15 @@
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\bin\Debug\ExtractProcDocument.Presentation.exe.config
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\bin\Debug\ExtractProcDocument.Presentation.exe
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\bin\Debug\ExtractProcDocument.Presentation.pdb
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csprojAssemblyReference.cache
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\App.g.cs
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation_MarkupCompile.cache
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation_MarkupCompile.lref
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\MainWindow.baml
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.g.resources
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.Properties.Resources.resources
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csproj.GenerateResource.cache
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.exe
+C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.pdb
