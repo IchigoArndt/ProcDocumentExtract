@@ -24,7 +24,6 @@ namespace ExtractProcDocument.Presentation
         public MainWindow()
         {
             InitializeComponent();
-            btnExtract.IsEnabled = false;
             txtDocument.IsEnabled = true;
             txtDocument.IsReadOnly = true;
         }
@@ -32,13 +31,17 @@ namespace ExtractProcDocument.Presentation
         private void BtnExtract_Click(object sender, RoutedEventArgs e)
         {
             var proc = new TextRange(txtProc.Document.ContentStart, txtProc.Document.ContentEnd);
+            chkNFe.IsChecked = proc.Text.Contains("nNF");
+            chkCTe.IsChecked = proc.Text.Contains("nCT");
+            chkMDFe.IsChecked = proc.Text.Contains("nMDF");
+
             if ((proc.Text != null)&&(proc.Text != string.Empty))
             {
-                if (chkCTe.IsChecked == true)
+                if (chkCTe.IsChecked != false)
                 {
                     txtDocument.Text = DocumentExtract.documentOriginal("CTe", proc.Text.ToString());
                 }
-                else if (chkNFe.IsChecked == true)
+                else if (chkNFe.IsChecked != false)
                 {
                     txtDocument.Text = DocumentExtract.documentOriginal("NFe", proc.Text.ToString());
                 }
@@ -59,13 +62,11 @@ namespace ExtractProcDocument.Presentation
             {
                 chkCTe.IsEnabled = false;
                 chkMDFe.IsEnabled = false;
-                btnExtract.IsEnabled = true;
             }
             else
             {
                 chkCTe.IsEnabled = true;
                 chkMDFe.IsEnabled = true;
-                btnExtract.IsEnabled = false;
             }
         }
 
@@ -75,13 +76,11 @@ namespace ExtractProcDocument.Presentation
             {
                 chkNFe.IsEnabled = false;
                 chkMDFe.IsEnabled = false;
-                btnExtract.IsEnabled = true;
             }
             else
             {
                 chkNFe.IsEnabled = true;
                 chkMDFe.IsEnabled = true;
-                btnExtract.IsEnabled = false;
             }
         }
 
@@ -91,13 +90,11 @@ namespace ExtractProcDocument.Presentation
             {
                 chkCTe.IsEnabled = false;
                 chkNFe.IsEnabled = false;
-                btnExtract.IsEnabled = true;
             }
             else
             {
                 chkNFe.IsEnabled = true;
                 chkCTe.IsEnabled = true;
-                btnExtract.IsEnabled = false;
             }
         }
     }

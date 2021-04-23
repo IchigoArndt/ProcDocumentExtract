@@ -13,3 +13,18 @@ C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presenta
 C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csproj.CoreCompileInputs.cache
 C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.exe
 C:\Users\Luiz Arndt\Desktop\NDD\ExtractProcDocument\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.pdb
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\bin\Debug\ExtractProcDocument.Presentation.exe.config
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\bin\Debug\ExtractProcDocument.Presentation.exe
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\bin\Debug\ExtractProcDocument.Presentation.pdb
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csprojAssemblyReference.cache
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\App.g.cs
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation_MarkupCompile.cache
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation_MarkupCompile.lref
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\MainWindow.baml
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.g.resources
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.Properties.Resources.resources
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csproj.GenerateResource.cache
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.exe
+C:\Users\felipe\Documents\projetosVisualStudio\ProcDocumentExtract\ExtractProcDocument.Presentation\obj\Debug\ExtractProcDocument.Presentation.pdb
